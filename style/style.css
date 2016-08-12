@@ -1,7 +1,8 @@
 .image {
     display: block;
     margin: auto;
-    
+    margin-bottom: 20px;
+    margin-top: 145px;
 }
 
 .mainsearch {
@@ -9,4 +10,44 @@
     margin: auto;
     width: 430px;
     height: 35px;
+}
+
+.search {
+    display:block;
+    float: left;
+    margin: 20px 20px 500px 380px;
+    width: 130px;
+    height: 35px;
+    border: 
+}
+
+.lucky {
+    display:block;
+    margin: 20px 75px 100px 100px;
+    width: 130px;
+    height: 35px;
+}
+
+.blue {
+    background-color: blue;
+    width: 60px;
+    margin: auto;
+    display:inline-block;
+    float:left;
+
+    
+}
+
+.top { 
+    float: right;
+    margin: 10;
+    padding: 0;
+    list-style: none;
+}
+
+.item {
+    width: 60px
+    display:inline-block;
+    float:left;
+
 }
